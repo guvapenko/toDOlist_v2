@@ -1,0 +1,12 @@
+{
+    "name": "qqha4/work",
+    "require": {
+        "fpdf/fpdf": "^1.85",
+        "setasign/tfpdf": "^1.33"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
